@@ -1,22 +1,22 @@
 const services = [
   {
     title: 'Interactive Sidebars',
-    desc: 'Custom tactical UI systems with animated modules and immersive layouts.'
+    desc: 'Custom tactical UI systems with animated modules, glow architecture, scan pulse effects, tournament integration, and immersive layouts.'
   },
 
   {
     title: 'Cinematic Blogs',
-    desc: 'Interactive reading systems with elite visual storytelling.'
+    desc: 'Interactive reading systems with expandable modules, integrated chess presentation, dynamic layouts, and elite visual storytelling.'
   },
 
   {
     title: 'Strategic Announcements',
-    desc: 'High-impact communication systems engineered to command attention.'
+    desc: 'High-impact communication systems engineered to command attention and strengthen community identity.'
   },
 
   {
     title: 'Identity Architecture',
-    desc: 'Full branding systems for clubs and individuals.'
+    desc: 'Full visual and structural branding systems for clubs and individuals seeking a recognizable digital presence.'
   }
 ];
 
